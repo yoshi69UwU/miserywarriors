@@ -1,0 +1,33 @@
+/* Estilos para el contenedor */
+.container {
+    position: relative;
+    width: 1750px; /* Ajusta el ancho del contenedor según sea necesario */
+    height: 860px; /* Ajusta la altura del contenedor según sea necesario */
+    margin: 0 auto; /* Centra el contenedor horizontalmente */
+}
+
+/* Estilos para los personajes */
+.personaje {
+    position: absolute;
+}
+
+.png-crow {
+    top: 180px; /* Ajusta la posición vertical según sea necesario */
+    left: 950px; /* Ajusta la posición horizontal según sea necesario */
+    /* Añade más estilos según sea necesario */
+     height: 600px; /* Ajusta la altura según sea necesario */
+    width: 600px; /* Ajusta el ancho según sea necesario */
+}
+
+.png-cataws {
+    top: 200px; /* Ajusta la posición vertical según sea necesario */
+    left: 120px; /* Ajusta la posición horizontal según sea necesario */
+    height: 600px; /* Ajusta la altura según sea necesario */
+    width: 600px; /* Ajusta el ancho según sea necesario */
+    /* Añade más estilos según sea necesario */
+}
+
+.escenario {
+    width: 100%; /* Ocupa todo el ancho del contenedor */
+    height: 100%; /* Ocupa todo el alto del contenedor */
+}
